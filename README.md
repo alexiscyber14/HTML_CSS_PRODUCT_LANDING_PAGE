@@ -44,4 +44,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 - Ducati Motors for the inspiration behind the design.
 - [Font Awesome](https://fontawesome.com/) for providing icons.
-- Any other resources or references you used.
