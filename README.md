@@ -2,6 +2,12 @@
 
 This project is a demonstration of a programmer's skill in HTML and CSS. It showcases a webpage for "Ducati Motors" using only HTML and CSS. The project includes various elements such as a navigation bar, images, buttons, and a form.
 
+
+## Live deom
+<a href="https://alexiscyber14.github.io/HTML_CSS_PRODUCT_LANDING_PAGE/">see live demo</a>
+
+
+
 ## Getting Started
 
 To view the webpage, simply open the HTML file in a web browser. You can also host the files on a web server if desired.
