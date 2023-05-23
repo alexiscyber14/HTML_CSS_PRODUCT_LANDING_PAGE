@@ -1,6 +1,12 @@
-# HTML_CSS_PRODUCT_LANDING_PAGE# HTML and CSS Skill Showcase
+# HTML and CSS Skill Showcase
 
 This project is a demonstration of a programmer's skill in HTML and CSS. It showcases a webpage for "Ducati Motors" using only HTML and CSS. The project includes various elements such as a navigation bar, images, buttons, and a form.
+
+
+## Live deom
+<a href="https://alexiscyber14.github.io/HTML_CSS_PRODUCT_LANDING_PAGE/">see live demo</a>
+
+
 
 ## Getting Started
 
